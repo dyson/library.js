@@ -1,4 +1,4 @@
-/*! library.js v0.0.2 | MIT License | dysonsimmons.com/library.js */
+/*! library.js v0.0.3 | MIT License | dysonsimmons.com/library.js */
 
 (function (window, undefined) {
 
