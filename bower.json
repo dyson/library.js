@@ -1,11 +1,11 @@
 {
   "name": "library.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/dyson/library.js",
   "authors": [
     "Dyson Simmons <dysonsimmons@gmail.com>"
   ],
-  "description": "Create jQuery compatible (almost) standalone plugins.'
+  "description": "Create jQuery compatible (almost) standalone plugins."
   "main": "js/library.js",
   "keywords": [
     "javascript",
